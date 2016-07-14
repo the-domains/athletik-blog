@@ -1,0 +1,14 @@
+layout_spectrum: 1
+color:
+  saturation: 0.1766917
+  brandStrength: 0.631686
+  lightness: 0
+  brandColors:
+    - '#141414'
+    - '#B4B4B4'
+    - '#424242'
+    - '#89BA11'
+    - '#E1E0E8'
+  rhythmicContrast: 0.718278
+typography_spectrum: 0.9981128
+name: Athletik-Blog
